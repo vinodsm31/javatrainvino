@@ -34,7 +34,7 @@ public class Employee {
 
  			double loanAmount = v1.getPrice() - c1.getCashOnHand(); 
 
- 			this.processLoan(c1, loanAmount); 
+ 			this.processLoan(c1, loanAmount);  
 
  		} else { 
 
