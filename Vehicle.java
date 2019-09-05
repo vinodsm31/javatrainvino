@@ -35,7 +35,7 @@ public class Vehicle {
   	}  
 
   	public void setMake(String make) {  
-
+ 
   		this.make = make;  
 
  	}  
